@@ -1,0 +1,11 @@
+1. Set up a Conda environment with the following libraries installed.
+a. PyTorch
+b. Numpy
+c. sklearn
+d. matplotlib
+
+2. Run using `python Mask_Net.py`. A small dataset is provided with the folder structure with approx 100 images. For better results, use Jupyter or Google Collab.
+
+3. To run in application mode, run `python app.py` and place sample image in 'test' folder with name as '1.jpg'. 
+
+4. To see the metrics for the model, run metrics.py in Jupyter.
